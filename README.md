@@ -1,6 +1,6 @@
 <img src="assets/mafuyu/mafuyu_School_Uniform_chibi.png" width="250" align="right" />
 
-<img src="assets/mafuyu/mafuyu_about_me.png"/>
+<img src="assets/mafuyu/mafuyu_about_me.png" width="500"/>
 
 - You can call me **Choko**, and I love **Vocaloids/Games**.
 - I enjoy playing **Simulation, FPS, Automation, and Rhythm games**.  
@@ -14,7 +14,7 @@
 
 <img src="assets/mafuyu/mafuyu_body.png" width="300" align="right" />
 
-<img src="assets/mafuyu/mafuyu_repo.png"/>
+<img src="assets/mafuyu/mafuyu_repo.png" width="500"/>
 
 ### My Projects
 
