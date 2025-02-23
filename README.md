@@ -4,7 +4,7 @@
 
 - You can call me **Choko**, and I love **Vocaloids/Games**.
 - I enjoy playing **Simulation, FPS, Automation, and Rhythm games**.  
-  ↳ **Some of my favorite games:** <img src="https://pjsekai.sega.jp/assets/data/webp/icon/icon_app.png.webp" width="16"/> [Project Sekai](https://pjsekai.sega.jp/), <img src="https://assets.mcasset.cloud/1.21.4/assets/icons/icon_128x128.png" width="16"/> [Minecraft](https://www.minecraft.net/), <img src="https://www.honkaistarrail.com/favicon.ico" width="16"/> [Honkai: Star Rail](https://hsr.hoyoverse.com/), <img src="https://www.factorio.com/static/img/favicon.ico" width="16"/> [Factorio](https://www.factorio.com/)
+  ↳ **Some of my favorite games:** <img src="assets/games/project_sekai.jpg" width="16"/> [Project Sekai](https://pjsekai.sega.jp/), <img src="https://assets.mcasset.cloud/1.21.4/assets/icons/icon_128x128.png" width="16"/> [Minecraft](https://www.minecraft.net/), <img src="assets/games/hsr.jpg" width="16"/> [Honkai: Star Rail](https://hsr.hoyoverse.com/), <img src="https://www.factorio.com/static/img/favicon.ico" width="16"/> [Factorio](https://www.factorio.com/)
 
 - I have some skills in: <img src="./assets/icon/js.png" width="16"/> [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript), <img src="./assets/icon/typescript.png" width="16"/> [TypeScript](https://www.typescriptlang.org/), <img src="./assets/icon/nodeJS.png" width="16"/> [NodeJS](https://nodejs.org/), <img src="./assets/icon/bun.png" width="16"/> [Bun](https://bun.sh/)
 
