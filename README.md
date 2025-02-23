@@ -1,4 +1,4 @@
-<img src="assets/mafuyu/Mafuyu_School_Uniform_chibi.png" width="250" style="float: right;" />
+<img src="assets/mafuyu/mafuyu_School_Uniform_chibi.png" width="250" align="right" />
 
 <img src="assets/mafuyu/mafuyu_about_me.png"/>
 
@@ -12,7 +12,7 @@
 
 - I understand **French** (native) and **English** (fluent)
 
-<img src="assets/mafuyu/mafuyu_body.png" width="300" style="float: right;" />
+<img src="assets/mafuyu/mafuyu_body.png" width="300" align="right" />
 
 <img src="assets/mafuyu/mafuyu_repo.png"/>
 
