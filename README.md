@@ -20,7 +20,7 @@
 
 - 📗 [**39Choko/Capybara**](https://github.com/39Choko/Capybara)  
   Add Capybara and new structures in Minecraft with Fabric!
-  - 📗 [**39Choko/lastfm**](https://github.com/39Choko/lastfm)  
+- 📗 [**39Choko/lastfm**](https://github.com/39Choko/lastfm)  
   A simple Last.fm API client build in Typescript!
 
 <sub>*“What I can do right now... is to keep composing songs.” – Yoisaki Kanade*</sub>
